@@ -2,5 +2,5 @@
 
 ## Descrition
 On my portofolio you'll find a little bit about me.
-thera are also links to some of my projects.
+There are also links to some of my projects.
 
